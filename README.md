@@ -1,2 +1,1 @@
-# customized_h_fa_dm
-Customized heat and floor area density maps
+# Stand-alone calculation module: Customized heat and floor area density maps
