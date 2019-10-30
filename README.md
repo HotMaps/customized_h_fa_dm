@@ -1,1 +1,1 @@
-# Stand-alone calculation module: Customized heat and floor area density maps
+# Stand-alone CM: Customized heat and floor area density maps
